@@ -8,6 +8,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrezberBlog.ApplicationCore", "CrezberBlog.ApplicationCore.Contracts\CrezberBlog.ApplicationCore.csproj", "{6EC3BA0F-893C-47B7-879E-34098E98F0AF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{32BE17D5-98F6-47AE-B6F9-585EC091E9C4}"
+	ProjectSection(SolutionItems) = preProject
+		ToDo.txt = ToDo.txt
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{339EB3B8-6581-4E7B-BBDA-E4426884CD01}"
 EndProject

@@ -1,0 +1,6 @@
+
+
+- Add gitignore
+- Add CQRS
+- Add Static Class Helper Project
+- Add ASP.NET CORE Site
